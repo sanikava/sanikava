@@ -3,8 +3,8 @@
 </div>
 
 <div align="center" width="50">
-
-<img src="https://github.com/sanikava/sanikava/blob/master/gifs/gif.gif" alt="Welcome!" width="300"/>
+![Hello](https://github.com/sanikava/sanikava/blob/master/gifs/gif.gif)
+<!-- <img src="" alt="Welcome!" width="300"/> -->
 
 
 </div>
