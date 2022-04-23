@@ -29,7 +29,7 @@ or <a href="mailto:sanikava.india@gmail.com"><b>email</b></a> me.
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
----
+
 [![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava)
 
 <i>Follow me around the web:</i><br>
@@ -40,16 +40,3 @@ or <a href="mailto:sanikava.india@gmail.com"><b>email</b></a> me.
 <a href="https://dev.to/sanikava" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-<!-- **sanikava/sanikava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--/>
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on any react app
-- 🤔 I’m looking for help with my friends
-- 💬 Ask me about discord.js/web development
-- 📫 How to reach me: Email Me at sanikava.india@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I am only here to help you
---/>
