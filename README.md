@@ -30,12 +30,12 @@ or <a href="mailto:sanikava.india@gmail.com"><b>email</b></a> me.
 <br>
 <!-- [![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava) -->
 
-<a href="https://hits.dwyl.com/sanikava/sanikava"><img align="center" src="https://hits.dwyl.com/sanikava/sanikava.svg" alt="HitCount"></a>
+<a href="https://hits.dwyl.com/sanikava/sanikava"><img align="center" src="https://hits.dwyl.com/sanikava/sanikava.svg" alt="HitCount"></a><br>
 <i>Follow me around the web:</i><br>
 
 
 <a href="https://www.instagram.com/sanikava.india" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/SanikavaYT" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/sanikava.india" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/sanikava" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
