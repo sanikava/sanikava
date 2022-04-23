@@ -24,14 +24,13 @@ or <a href="mailto:sanikava.india@gmail.com"><b>email</b></a> me.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanikava&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sanikava's Github Stats">
 
-</br>
-</br>
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+<br>
+<!-- [![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava) -->
 
-[![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava)
-
+<a href="https://hits.dwyl.com/sanikava/sanikava"><img align="center" src="https://hits.dwyl.com/sanikava/sanikava.svg" alt="HitCount"></a>
 <i>Follow me around the web:</i><br>
 
 
