@@ -29,6 +29,7 @@ or <a href="mailto:sanikava@mailindia.cf"><b>email</b></a> me.
 <br>
 <!-- [![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava) -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=louislam&count_private=true&show_icons=true&include_all_commits=true" /> 
 <a href="https://hits.dwyl.com/sanikava/sanikava"><img align="center" src="https://hits.dwyl.com/sanikava/sanikava.svg" alt="HitCount"></a><br>
 <i>Follow me around the web:</i><br>
 
