@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="./gifs/gif.gif" alt="Hello!" width="300"/>
+<img src="https://raw.githubusercontent.com/sanikava/sanikava/main/gifs/gif.gif" alt="Hello!" width="300"/>
 
 
 </div>
