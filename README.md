@@ -37,7 +37,7 @@ or <a href="mailto:sanikava@mailindia.cf"><b>email</b></a> me.
 <a href="https://www.facebook.com/sanikava.india" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/sanikava" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-<img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-3/1043874196184383569.png">
+<img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-5/1043874196184383569.png">
 <img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
 
 </div>
