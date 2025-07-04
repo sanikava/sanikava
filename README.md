@@ -14,7 +14,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit Problems if you think something could be better. <br>
 Ask me anything <a href="https://github.com/sanikava/sanikava/issues/new"><b>here</b></a><br>
-or <a href="mailto:sanikava@mailindia.cf"><b>email</b></a> me.
+or <a href="mailto:sanikava.india+github@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding Dear Friends!</i> 😊
 
