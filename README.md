@@ -29,7 +29,8 @@ or <a href="mailto:sanikava@mailindia.cf"><b>email</b></a> me.
 <br>
 <!-- [![HitCount](http://hits.dwyl.com/sanikava/sanikava.svg)](http://hits.dwyl.com/sanikava/sanikava) -->
 
-<a href="https://hits.dwyl.com/sanikava/sanikava"><img align="center" src="https://hits.dwyl.com/sanikava/sanikava.svg" alt="HitCount"></a><br>
+ [![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})
+
 <i>Follow me around the web:</i><br>
 
 
