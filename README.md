@@ -46,4 +46,18 @@ or <a href="mailto:sanikava.india+github@gmail.com"><b>email</b></a> me.
 
 <img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
 
+# 📊 GitHub Stats:
+![](https://akshansh-readme.vercel.app/api?username=sanikava&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://akshansh-readme.vercel.app/api/top-langs/?username=sanikava&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=sanikava&theme=radical&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanikava&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanikava&limit=3&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sanikava&icon=5&color=0)](https://visitcount.itsvg.in)
 </div>
+
